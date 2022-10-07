@@ -1,4 +1,4 @@
-# Este proyecto me permitira tener un controlsobre los libros que leo y tengo por leer.
+# Este proyecto me permitira tener un control sobre los libros que lees.
 
 # contro_libro
 
@@ -7,9 +7,7 @@
 
 ![control_libro](control_libro.png "control libro")
 
-# Despues de que nos salga en la pantallo lo respectivo
-# donde toca ubicar lo asignado del libro, tendras que saber el nombre del, autor etc.
-# Para que puedas registrarte bien.
+# nos saldra lo siguiente en la pantalla donde toca ubicar lo asignado del libro, tendras que saber el nombre del libro,autor etc. Para que puedas registrarte bien.
 
 ![registro](registro.png "registro") 
 
@@ -17,13 +15,13 @@
 
 # Resultado 
 
-## Despues de agregar el libro, este aparecera lo siguente :
+## Despues de agregar el libro, aparecera lo siguente:
 
 ![resultadoo](resultado.png "resultado")
 
 # salir 
 
-## tendras un button donde podras salir solo tiene que presionarlo y asi podras cerra el control de libro.
+## tendras un button donde podras salir, solo tiene que presionarlo y asi podras cerra el registro.
 
 ![salir](salir.png "salir")     
 
