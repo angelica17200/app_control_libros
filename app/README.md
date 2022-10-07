@@ -1,6 +1,6 @@
-# Este proyecto me permitira tener un control sobre los libros que lees.
+# Este proyecto permitira tener un control sobre los libros que lees.
 
-# contro_libro
+# control_libro
 
 ## Te permitira registrar los datos del libro para asi poder cumplir 
 ## su funcion que es guardarlo en tu biblioteca los libros que vas a leer y que leiste 
