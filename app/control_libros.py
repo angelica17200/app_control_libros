@@ -110,6 +110,7 @@ cargar()
 consultar()
 ventana.title("Relación de los libros que tengo que leer")
 ventana.geometry("700x500")
+
 ventana.configure(background = colorFondo)
 etiquetaTitulo = Label(ventana, text="Relación de libros\
          que tengo que leer",bg = colorFondo,fg = colorLetra).place(x=250, y=10)
